@@ -1,1 +1,1 @@
-car rental console application with data base and fixed reports for user
+The Car Rental project is a console-based application that integrates seamlessly with a database to manage car rentals efficiently. It offers users fixed reports, providing valuable insights and ensuring smooth operation.
